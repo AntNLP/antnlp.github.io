@@ -604,28 +604,28 @@ h5.subtitle {
 
 
 .banner-1 {
-    background: url("../assets/img/banner/contact-bg.jpg");
+    background: url("../img/banner/contact-bg.jpg");
     -webkit-background-size: cover;
     background-size: cover;
     position: relative;
 }
 
 .banner-2 {
-    background: url("../assets/img/banner/publication-bg.jpg");
+    background: url("../img/banner/publication-bg.jpg");
     -webkit-background-size: cover;
     background-size: cover;
     position: relative;
 }
 
 .banner-3 {
-    background: url("../assets/img/banner/index-bg.jpg");
+    background: url("../img/banner/index-bg.jpg");
     -webkit-background-size: cover;
     background-size: cover;
     position: relative;
 }
 
 .banner-4 {
-    background: url("../assets/img/banner/404-bg.jpg");
+    background: url("../img/banner/404-bg.jpg");
     -webkit-background-size: cover;
     background-size: cover;
     position: relative;
@@ -714,7 +714,7 @@ h5.subtitle {
     position: absolute;
     right: 0px;
     content: "";
-    background: url("../assets/img/banner/people-bg.jpg") 50% 50%;
+    background: url("../img/banner/people-bg.jpg") 50% 50%;
     width: 40%;
     height: 100%;
     max-height: 560px;
@@ -760,7 +760,7 @@ h5.subtitle {
   SERVICE AREA SECTION
 ----------------------*/
 .page-banner-area.page-service{
-    background: url("../assets/img/bg/bg-2.jpg") no-repeat;
+    background: url("../img/bg/bg-2.jpg") no-repeat;
     background-size: cover;
 }
 #service-head {
@@ -1027,7 +1027,7 @@ h5.subtitle {
 }
 
 #counter {
-    background: url("../assets/img/banner/pattern-3.png") fixed 50% 50%;
+    background: url("../img/banner/pattern-3.png") fixed 50% 50%;
     position: relative;
     -webkit-background-size: cover;
     background-size: cover;
@@ -1142,7 +1142,7 @@ h5.subtitle {
 #footer {
     padding-bottom: 60px;
     position: relative;
-    background: url("../assets/img/bg/2.png") ;
+    background: url("../img/bg/2.png") ;
     border-top: 1px solid#eee;
 }
 
@@ -1224,7 +1224,7 @@ INner Pages
     padding: 60px 0px 80px;
 }
 .page-banner-area{
-    background:url("../assets/img/banner/people-bg.jpg")no-repeat 50% 50%;
+    background:url("../img/banner/people-bg.jpg")no-repeat 50% 50%;
     background-size: cover;
 }
 
@@ -1286,7 +1286,7 @@ HISTORY MISSION
 
 ==============================*/
 #section-strategy{
-    background: url("../assets/img/bg/bg-1.jpg") 50% 50% no-repeat;
+    background: url("../img/bg/bg-1.jpg") 50% 50% no-repeat;
     background-size: cover;
 }
 .strategy-text{
@@ -1352,7 +1352,7 @@ SERVICE PAGE
 }
 
 .service-style-two{
-    background: url("../assets/img/bg/bg-2.jpg") no-repeat;
+    background: url("../img/bg/bg-2.jpg") no-repeat;
     background-size: cover;
     position: relative;
 }
