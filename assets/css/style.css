@@ -565,6 +565,13 @@ h5.subtitle {
     line-height: 50px;
 }
 
+.banner-content .banner-title-404 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 30px;
+}
+
 .banner-content .subtitle {
     color: #fff;
     background: #635CDB;
@@ -612,6 +619,13 @@ h5.subtitle {
 
 .banner-3 {
     background: url("../img/banner/index-bg.jpg");
+    -webkit-background-size: cover;
+    background-size: cover;
+    position: relative;
+}
+
+.banner-4 {
+    background: url("../img/banner/404-bg.jpg");
     -webkit-background-size: cover;
     background-size: cover;
     position: relative;
