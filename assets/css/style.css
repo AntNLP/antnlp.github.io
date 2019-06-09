@@ -433,6 +433,7 @@ h5.subtitle {
 
 
 .trans-navigation.header-white {
+    opacity: 0.7;
     background: #111;
 }
 
