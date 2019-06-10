@@ -604,28 +604,28 @@ h5.subtitle {
 
 
 .banner-1 {
-    background: url("../img/banner/contact-bg.jpg");
+    background: url("http://psv56vm1u.bkt.clouddn.com/banner/contact-bg.jpg");
     -webkit-background-size: cover;
     background-size: cover;
     position: relative;
 }
 
 .banner-2 {
-    background: url("../img/banner/publication-bg.jpg");
+    background: url("http://psv56vm1u.bkt.clouddn.com/banner/publication-bg.jpg");
     -webkit-background-size: cover;
     background-size: cover;
     position: relative;
 }
 
 .banner-3 {
-    background: url("../img/banner/index-bg.jpg");
+    background: url("http://psv56vm1u.bkt.clouddn.com/banner/index-bg.jpg");
     -webkit-background-size: cover;
     background-size: cover;
     position: relative;
 }
 
 .banner-4 {
-    background: url("../img/banner/404-bg.jpg");
+    background: url("http://psv56vm1u.bkt.clouddn.com/banner/404-bg.jpg");
     -webkit-background-size: cover;
     background-size: cover;
     position: relative;
@@ -714,7 +714,7 @@ h5.subtitle {
     position: absolute;
     right: 0px;
     content: "";
-    background: url("../img/banner/people-bg.jpg") 50% 50%;
+    background: url("http://psv56vm1u.bkt.clouddn.com/banner/people-bg.jpg") 50% 50%;
     width: 40%;
     height: 100%;
     max-height: 560px;
@@ -1142,7 +1142,7 @@ h5.subtitle {
 #footer {
     padding-bottom: 60px;
     position: relative;
-    background: url("../img/bg/2.png") ;
+    background: url("http://psv56vm1u.bkt.clouddn.com/banner/2.png") ;
     border-top: 1px solid#eee;
 }
 
@@ -1224,7 +1224,7 @@ INner Pages
     padding: 60px 0px 80px;
 }
 .page-banner-area{
-    background:url("../img/banner/people-bg.jpg")no-repeat 50% 50%;
+    background:url("http://psv56vm1u.bkt.clouddn.com/banner/people-bg.jpg")no-repeat 50% 50%;
     background-size: cover;
 }
 
